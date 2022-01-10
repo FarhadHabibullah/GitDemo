@@ -1,0 +1,3 @@
+22:10:18.855 [TestNG-tests-3] INFO  Planit.base - sending text
+22:10:19.371 [TestNG-tests-3] INFO  Planit.base - clicking submit button
+22:10:31.769 [TestNG-tests-3] INFO  Planit.base - validate message

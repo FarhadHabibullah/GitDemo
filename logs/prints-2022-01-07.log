@@ -1,0 +1,7 @@
+22:10:16.942 [TestNG-tests-3] INFO  Planit.base - clicking contact button
+22:10:16.963 [TestNG-tests-4] INFO  Planit.base - clicking contact button
+22:10:17.437 [TestNG-tests-1] INFO  Planit.base - successfully validated text message
+22:10:17.651 [TestNG-tests-3] INFO  Planit.base - sending user name
+22:10:18.468 [TestNG-tests-3] INFO  Planit.base - sending email
+22:10:18.660 [TestNG-tests-4] INFO  Planit.base - sending invalid data
+22:10:18.814 [TestNG-tests-4] INFO  Planit.base - validate error
